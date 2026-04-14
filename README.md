@@ -43,9 +43,7 @@ Currently studying SMR2, heading to ASIR + cybersecurity specialization.
 
 ## 📊 TryHackMe
 
-## 📊 TryHackMe Stats
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Kiwi9909.png)](https://tryhackme.com/p/Kiwi9909)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Kiwi9909-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Kiwi9909)
 ---
 
 ## 📫 Contact
