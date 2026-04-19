@@ -37,7 +37,7 @@ Currently studying SMR2, heading to ASIR + cybersecurity specialization.
 
 ## 📂 Writeups
 
-> 🚧 **Under Construction** — Currently documenting my first writeups while completing the Jr Penetration Tester path. Coming soon!
+> [LFI RFI Module writeup](https://github.com/Kiwi20003/THMWriteups-/tree/main/LFI%20RFI%20module)
 
 ---
 
