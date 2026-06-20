@@ -1,17 +1,26 @@
-# Hi, I'm Kiwi20003 👋
+```
+██╗  ██╗██╗██╗    ██╗██╗
+██║ ██╔╝██║██║    ██║██║
+█████╔╝ ██║██║ █╗ ██║██║
+██╔═██╗ ██║██║███╗██║██║
+██║  ██╗██║╚███╔███╔╝██║
+╚═╝  ╚═╝╚═╝ ╚══╝╚══╝ ╚═╝
+```
 
-Cybersecurity student focused on the  **Red team**.
-Currently studying SMR2, heading to ASIR + cybersecurity specialization.
-
----
-
-## 🎯 About me
-
-- 🔭 Currently: Jr Penetration Tester path on TryHackMe
-- 🌱 Learning: Web hacking, LFI/RFI, Cookie Manipulation, Linux
-- 🎯 Goal: Red Team / Professional Pentester
-- 📍 Spain
-
+```
+┌──────────────────────────────────────────┐
+│  root@kiwi:~$ whoami                     │
+│  > cybersecurity student                 │
+│                                          │
+│  root@kiwi:~$ cat about.txt              │
+│  > Currently: Jr Penetration Tester path │
+│  > Learning Scripting · Web hacking Linux│
+│  > Route: SMR2 -> ASIR -> Ciberseguridad │
+│  > Spain                                 │
+│                                          │
+│  root@kiwi:~$ _                          │
+└──────────────────────────────────────────┘
+```
 ---
 
 ## 📜 Certifications & Training
